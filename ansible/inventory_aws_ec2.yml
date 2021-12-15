@@ -1,0 +1,6 @@
+plugin: amazon.aws.aws_ec2
+boto_profile: default
+regions:
+  - us-west-1
+filters:
+  tag:class: ChatServer
