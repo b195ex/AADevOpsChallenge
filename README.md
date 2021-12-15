@@ -14,7 +14,7 @@ Once you've met these three requirements you are ready!
 I'll assume that if you're browsing github you know your way around the command line interface
 
 Step 1:
-  Clone the repo
+  Clone the repo<br>
 Step 2:
   Open a terminal in the directory where you cloned the repo.
 Step 3:
